@@ -220,6 +220,7 @@ header {
 .remember-forgot a {
     color: #162938;
     margin-right: 3px;
+    text-decoration: none;
 }
 
 .remember-forgot a:hover {
